@@ -35,7 +35,7 @@ Helpful Links
 
 [ggplot Gallery, with code](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
 
-[Introduction to Statistical and Data Sciences via R](http://www.moderndive.com/)
+[Plot.ly library](https://plot.ly/ggplot2/)
 
 [Tufte in R](http://motioninsocial.com/tufte/)
 
